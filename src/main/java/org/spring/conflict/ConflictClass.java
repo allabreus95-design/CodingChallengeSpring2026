@@ -5,6 +5,7 @@ public class ConflictClass {
         System.out.println("Tis is my conflict class!!!");
         System.out.println("Changes masters again");
         System.out.println("conflict feature");
+        System.out.println("new conflict");
 
     }
 }
